@@ -66,7 +66,7 @@ nav > ul > li > a:hover {
 }
 
 body {
-    background-image: url(/img/background_1.jpg);
+    background-image: url("/img/background_1.jpg");
     background-attachment: fixed;
     background-size: cover;
     backdrop-filter: blur(1px);
